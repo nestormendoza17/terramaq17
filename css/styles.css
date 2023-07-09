@@ -10817,7 +10817,8 @@ textarea.form-control-lg {
     display: table-cell !important;
   }
   .d-print-flex {
-    display: flex !important;nav
+    display: flex !important;
+    
   }
   .d-print-inline-flex {
     display: inline-flex !important;
@@ -10826,6 +10827,7 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
+
 html {
   height: 100%;
   scroll-padding-top: calc(4.5rem - 1px);
